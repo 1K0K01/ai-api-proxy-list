@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Project-blue?logo=github)](https://github.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](./CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/Updated-2026.05-blueviolet)]()
+[![Last Updated](https://img.shields.io/badge/Updated-2026.08-blueviolet)]()
 
 **개발자가 적합한 AI API 중계 서비스를 빠르게 찾을 수 있도록 돕고, 가격, 모델, 특징을 한곳에서 비교함.**
 
@@ -31,192 +31,193 @@ AI 대형 모델이 대중화됨에 따라 Claude, GPT, Gemini 등 모델의 API
 
 | # | 이름 | 공식 웹사이트 | 지원 모델 | Base URL | API 지연 시간 | 공식 웹사이트 지연 시간 |
 |:---:|:---|:---|:---|:---|:---:|:---:|
-| 1 | BUZZ | [buzzai.cc](https://buzzai.cc) | 다중 모델 | 확인 필요 | - | 287ms |
-| 2 | NUWA | [nuwaapi.com](https://nuwaapi.com) | 다중 모델 | [api.nuwaapi.com](https://api.nuwaapi.com) | 19860ms | 508ms |
-| 3 | PackyAPI | [codex-api.packycode.com](https://codex-api.packycode.com) | 다중 모델 | 확인 필요 | - | 538ms |
-| 4 | ocool AI | [ocool.ai](https://ocool.ai) | 다중 모델 | 확인 필요 | - | 576ms |
-| 5 | AI98 | [ai98.vip](https://ai98.vip) | 다중 모델 | 확인 필요 | - | 708ms |
-| 6 | LionCC | [vibecodingapi.ai](https://vibecodingapi.ai) | Vibe Coding | 확인 필요 | - | 715ms |
-| 7 | 神马中转 API | [api.whatai.cc](https://api.whatai.cc) | 다중 모델 | 확인 필요 | - | 726ms |
-| 8 | Easy Router | [easyrouter.io](https://easyrouter.io) | 다중 모델 | 확인 필요 | - | 727ms |
-| 9 | 35-aigcbest | [35.aigcbest.top](https://35.aigcbest.top) | 다중 모델 | 확인 필요 | - | 735ms |
-| 10 | v3 | [api.v3.cm](https://api.v3.cm) | 다중 모델 | 확인 필요 | - | 740ms |
-| 11 | koalaapi | [koalaapi.com](https://koalaapi.com) | 다중 모델 | 확인 필요 | - | 741ms |
-| 12 | laozhang.ai | [api.laozhang.ai](https://api.laozhang.ai) | 다중 모델 | 확인 필요 | - | 771ms |
-| 13 | 柠檬API | [new.lemonapi.site](https://new.lemonapi.site) | 다중 모델 | 확인 필요 | - | 785ms |
-| 14 | CCFly | [ccfly.codes](https://ccfly.codes) | Claude | 확인 필요 | - | 794ms |
-| 15 | Sub2API | [s2a.865199.xyz](https://s2a.865199.xyz) | 다중 모델 | 확인 필요 | - | 834ms |
-| 16 | treerouter | [treerouter.com](https://treerouter.com) | 다중 모델 | 확인 필요 | - | 851ms |
-| 17 | 星链 4SAPI | [4sapi.com](https://4sapi.com) | 다중 모델 | 확인 필요 | - | 856ms |
-| 18 | gptgod | [gptgod.cloud](https://gptgod.cloud) | 다중 모델 | 확인 필요 | - | 857ms |
-| 19 | Owl AI | [api.owlai.tech](https://api.owlai.tech) | 다중 모델 | [api.owlai.tech](https://api.owlai.tech) | 941ms | 941ms |
-| 20 | ZX API | [zxai.work](https://zxai.work) | 다중 모델 | 확인 필요 | - | 957ms |
-| 21 | SmokeDivine AI | [yansd666.com](https://yansd666.com) | 다중 모델 | 확인 필요 | - | 1047ms |
-| 22 | sbgpt | [go.sbgpt.site](https://go.sbgpt.site) | 다중 모델 | 확인 필요 | - | 1053ms |
-| 23 | 简易-API中转站 | [jeniya.top](https://jeniya.top) | 다중 모델 | 확인 필요 | - | 1054ms |
-| 24 | xjai-new | [new.xjai.cc](https://new.xjai.cc) | 다중 모델 | 확인 필요 | - | 1072ms |
-| 25 | 诗云 API ShiyunApi | [shiyunapi.com](https://shiyunapi.com) | 다중 모델 | 확인 필요 | - | 1092ms |
-| 26 | Yun API | [api.zyai.online](https://api.zyai.online) | 다중 모델 | [api.zyai.online](https://api.zyai.online) | 1159ms | 1159ms |
-| 27 | 云雾AI | [yunwu.ai](https://yunwu.ai) | 다중 모델 | [api.yunwu.ai](https://api.yunwu.ai) | 1376ms | 1159ms |
-| 28 | PoloAPI | [poloai.top](https://poloai.top) | 다중 모델 | 확인 필요 | - | 1204ms |
-| 29 | MiKu | [mikuapi.org](https://mikuapi.org) | 다중 모델 | 확인 필요 | - | 1267ms |
-| 30 | 鑫源AI | [xinyuanai666.com](https://xinyuanai666.com) | 다중 모델 | 확인 필요 | - | 1340ms |
-| 31 | MaynorAPI | [apipro.maynor1024.live](https://apipro.maynor1024.live) | 다중 모델 | 확인 필요 | - | 1383ms |
-| 32 | tomchat | [api.tomchat.fun](https://api.tomchat.fun) | 다중 모델 | 확인 필요 | - | 2641ms |
-| 33 | 一叶知秋API | [88996.cloud](https://88996.cloud) | 다중 모델 | [api.88996.cloud](https://api.88996.cloud) | 2616ms | 3420ms |
-| 34 | Aiberm | [aiberm.com](https://aiberm.com) | Claude / GPT / Gemini / Kimi / MiniMax / DeepSeek / GLM / Grok | [aiberm.com](https://aiberm.com) | 3942ms | 3942ms |
-| 35 | API 易 | [apiyi.com](https://apiyi.com) | 400+ 모델 | [api.apiyi.com](https://api.apiyi.com) | 746ms | 4575ms |
-| 36 | HotaruAPI | [api.hotaruapi.top](https://api.hotaruapi.top) | 다중 모델 | 확인 필요 | - | 10050ms |
-| 37 | Undy API | [vip.undyingapi.com](https://vip.undyingapi.com) | 다중 모델 | 확인 필요 | - | 10439ms |
-| 38 | zhtec | [api1.zhtec.xyz](https://api1.zhtec.xyz) | 다중 모델 | 확인 필요 | - | 13362ms |
-| 39 | ChefShop AI | [chefshop.ai](https://chefshop.ai) | 공식 계정 | 확인 필요 | - | 13459ms |
-| 40 | 草丛GPT中转站 | [ai.adbog.com](https://ai.adbog.com) | 다중 모델 | 확인 필요 | - | 13559ms |
-| 41 | chintao.cn | [chintao.cn](https://chintao.cn) | 다중 모델 | 확인 필요 | - | 13582ms |
-| 42 | ClaudeAPI | [console.claudeapi.com](https://console.claudeapi.com) | 다중 모델 | 확인 필요 | - | 13849ms |
-| 43 | 云智API | [yunzhiapi.cn](https://yunzhiapi.cn) | 다중 모델 | [yunzhiapi.cn](https://yunzhiapi.cn) | 13948ms | 13948ms |
-| 44 | codesome.ai | [codesome.ai](https://codesome.ai) | Claude / GPT / Gemini | 확인 필요 | - | 14002ms |
-| 45 | 旺旺中转站 | [api.bbww.top](https://api.bbww.top) | 다중 모델 | 확인 필요 | - | 14004ms |
-| 46 | GalaxyAPI | [api.openai-ch.top](https://api.openai-ch.top) | 다중 모델 | 확인 필요 | - | 14115ms |
-| 47 | KFCV50API | [kfcv50.link](https://kfcv50.link) | 다중 모델 | 확인 필요 | - | 14190ms |
-| 48 | 丰思理 AI | [ai.fengsili.online](https://ai.fengsili.online) | 다중 모델 | 확인 필요 | - | 14515ms |
-| 49 | kksj | [cnapi.kksj.org](https://cnapi.kksj.org) | 다중 모델 | 확인 필요 | - | 15337ms |
-| 50 | MuskAI | [muskpay.top](https://muskpay.top) | 다중 모델 | 확인 필요 | - | 15388ms |
-| 51 | 词元流动 | [tokenflux.dev](https://tokenflux.dev) | 다중 모델 | [tokenflux.dev](https://tokenflux.dev) | 15444ms | 15444ms |
-| 52 | Smart API | [ai.smartall.cloud](https://ai.smartall.cloud) | 다중 모델 | 확인 필요 | - | 15467ms |
-| 53 | Compshare (UCloud) | [compshare.cn](https://compshare.cn) | 중국 내 모델 + 해외 중계 | [api.compshare.cn](https://api.compshare.cn) | 21371ms | 15800ms |
-| 54 | AIHubMix | [aihubmix.com](https://aihubmix.com) | 다중 모델 | [api.aihubmix.com](https://api.aihubmix.com) | 21537ms | 15805ms |
-| 55 | LX_API | [lxtech.icu](https://lxtech.icu) | Claude | 확인 필요 | - | 16010ms |
-| 56 | OhMyGPT | [x.dogenet.win](https://x.dogenet.win) | Claude / GPT / Gemini / MiniMax / GLM / Qwen | [apic1.ohmycdn.com](https://apic1.ohmycdn.com) | 16190ms | 16043ms |
-| 57 | DawCode | [dawclaudecode.com](https://dawclaudecode.com) | Claude / GPT / Gemini | [api.dawclaudecode.com](https://api.dawclaudecode.com) | 21789ms | 16079ms |
-| 58 | 猫羽霖API | [huashang.dpdns.org](https://huashang.dpdns.org) | 다중 모델 | 확인 필요 | - | 16107ms |
-| 59 | YuegleAPI | [api.yuegle.com](https://api.yuegle.com) | 다중 모델 | 확인 필요 | - | 16268ms |
-| 60 | UU API | [uuapi.net](https://uuapi.net) | 다중 모델 | [api.uuapi.net](https://api.uuapi.net) | 15701ms | 16822ms |
-| 61 | 艾可API | [aicanapi.com](https://aicanapi.com) | 다중 모델 | 확인 필요 | - | 16832ms |
-| 62 | Stark GPT Load | [stark-gpt-load.onrender.com](https://stark-gpt-load.onrender.com) | 다중 모델 | 확인 필요 | - | 16903ms |
-| 63 | APINebula | [apinebula.com](https://apinebula.com) | 다중 모델 | 확인 필요 | - | 17349ms |
-| 64 | paintbot | [oneapi.paintbot.top](https://oneapi.paintbot.top) | 다중 모델 | 확인 필요 | - | 18315ms |
-| 65 | xinglianapi | [xinglianapi.com](https://xinglianapi.com) | 오픈소스 모델 | 확인 필요 | - | 18376ms |
-| 66 | 速创API | [api.suchuang.vip](https://api.suchuang.vip) | 다중 모델 | 확인 필요 | - | 18515ms |
-| 67 | chatfire | [api.chatfire.cn](https://api.chatfire.cn) | 다중 모델 | 확인 필요 | - | 18537ms |
-| 68 | 6i2 | [6i2.com](https://6i2.com) | 다중 모델 | [api.6i2.com](https://api.6i2.com) | 15837ms | 18595ms |
-| 69 | xeduapi.com | [xeduapi.com](https://xeduapi.com) | 다중 모델 | [api.xeduapi.com](https://api.xeduapi.com) | 12065ms | 18705ms |
-| 70 | 硅基流动 SiliconFlow | [siliconflow.cn](https://siliconflow.cn) | 멀티모달 모델 | [d3gk2c5xim1je2.cloudfront.net](https://d3gk2c5xim1je2.cloudfront.net) | 3179ms | 18792ms |
-| 71 | 302.ai | [302.ai](https://302.ai) | 500+ 모델 | [dash-api.302.ai](https://dash-api.302.ai) | 11814ms | 18850ms |
-| 72 | Terminal.Pub | [terminal.pub](https://terminal.pub) | Claude / GPT / Gemini | [api.terminal.pub](https://api.terminal.pub) | 13104ms | 18865ms |
-| 73 | RunAPI | [runapi.co](https://runapi.co) | 다중 모델 | 확인 필요 | - | 18907ms |
-| 74 | GueAi | [api.gueai.com](https://api.gueai.com) | 다중 모델 | 확인 필요 | - | 19109ms |
-| 75 | azapi | [azapi.com.cn](https://azapi.com.cn) | 다중 모델 | 확인 필요 | - | 19255ms |
-| 76 | 全球AI | [globalai.vip](https://globalai.vip) | 다중 모델 | 확인 필요 | - | 19309ms |
-| 77 | 天絮 API | [chat-api4.087654.xyz](https://chat-api4.087654.xyz) | 다중 모델 | 확인 필요 | - | 19313ms |
-| 78 | Cubence | [cubence.com](https://cubence.com) | 다중 모델 | [api.fontshare.com](https://api.fontshare.com) | 1015ms | 19337ms |
-| 79 | VVCode | [vvcode.top](https://vvcode.top) | 다중 모델 | 확인 필요 | - | 19346ms |
-| 80 | RK AI | [2api.rkai6.com](https://2api.rkai6.com) | 다중 모델 | 확인 필요 | - | 19422ms |
-| 81 | LemonData | [lemondata.cc](https://lemondata.cc) | 300+ 모델 | [api.lemondata.cc](https://api.lemondata.cc) | 15457ms | 19447ms |
-| 82 | TimiCC | [timicc.com](https://timicc.com) | GPT (Codex) / Claude / MiniMax | 확인 필요 | - | 19460ms |
-| 83 | NekoCode | [nekocode.ai](https://nekocode.ai) | 다중 모델 | 확인 필요 | - | 20051ms |
-| 84 | Smz Ai | [smz6.com](https://smz6.com) | 다중 모델 | 확인 필요 | - | 20220ms |
-| 85 | ZenMux | [zenmux.ai](https://zenmux.ai) | 다중 모델 | [zenmux.ai](https://zenmux.ai) | 20258ms | 20258ms |
-| 86 | E-FlowCode | [e-flowcode.cc](https://e-flowcode.cc) | 다중 모델 | 확인 필요 | - | 20276ms |
-| 87 | FoxCode | [foxcode.rjj.cc](https://foxcode.rjj.cc) | Claude / GPT / Gemini | 확인 필요 | - | 20463ms |
-| 88 | ofox.ai | [ofox.ai](https://ofox.ai) | 다중 모델 | [api.ofox.ai](https://api.ofox.ai) | 20700ms | 20477ms |
-| 89 | ofox.ai | [ofox.ai](https://ofox.ai) | 다중 모델 | [api.ofox.ai](https://api.ofox.ai) | 20700ms | 20477ms |
-| 90 | 小瑞API | [xiaoruiapi.cc](https://xiaoruiapi.cc) | 다중 모델 | 확인 필요 | - | 20606ms |
-| 91 | 88API | [88api.apifox.cn](https://88api.apifox.cn) | 다중 모델 | [api.88api.chat](https://api.88api.chat) | 1771ms | 20752ms |
-| 92 | 镜核 AI | [ai.17nas.com](https://ai.17nas.com) | 다중 모델 | 확인 필요 | - | 20776ms |
-| 93 | aabao | [fastapi.aabao.vip](https://fastapi.aabao.vip) | 다중 모델 | 확인 필요 | - | 20784ms |
-| 94 | nekoapi | [api.nekoapi.com](https://api.nekoapi.com) | 다중 모델 | 확인 필요 | - | 20871ms |
-| 95 | AiroeAI | [ai.airoe.cn](https://ai.airoe.cn) | 다중 모델 | 확인 필요 | - | 20947ms |
-| 96 | DMXAPI | [dmxapi.cn](https://dmxapi.cn) | Claude Code | 확인 필요 | - | 21055ms |
-| 97 | 接口AI | [jiekou.ai](https://jiekou.ai) | 다중 모델 | [api.jiekou.ai](https://api.jiekou.ai) | 21328ms | 21083ms |
-| 98 | 钠 API | [naapi.cc](https://naapi.cc) | 다중 모델 | 확인 필요 | - | 21120ms |
-| 99 | 球球Token | [qiuqiutoken.com](https://qiuqiutoken.com) | 다중 모델 | [api.qiuqiutoken.com](https://api.qiuqiutoken.com) | 21140ms | 21150ms |
-| 100 | 简小智API中转站 | [newapi.jianxiaozhi.chat](https://newapi.jianxiaozhi.chat) | 다중 모델 | 확인 필요 | - | 21162ms |
-| 101 | 盛算云 Shengsuanyun | [shengsuanyun.com](https://shengsuanyun.com) | 다중 모델 | 확인 필요 | - | 21180ms |
-| 102 | RightCode | [right.codes](https://right.codes) | 다중 모델 | [api.right.codes](https://api.right.codes) | 15978ms | 21238ms |
-| 103 | Flux AI | [cn.nyi.cn](https://cn.nyi.cn) | 다중 모델 | 확인 필요 | - | 21376ms |
-| 104 | ANYONE.AI | [anyone.ai](https://anyone.ai) | 다중 모델 | [api.anyone.ai](https://api.anyone.ai) | 814ms | 21448ms |
-| 105 | Aizex API | [aizex.top](https://aizex.top) | 다중 모델 | 확인 필요 | - | 21517ms |
-| 106 | 灵芽 API | [api.lingyaai.cn](https://api.lingyaai.cn) | 600+ 모델 | 확인 필요 | - | 21562ms |
-| 107 | deepkey | [deepkey.top](https://deepkey.top) | 다중 모델 | 확인 필요 | - | 21588ms |
-| 108 | 柏拉图AI | [api.bltcy.ai](https://api.bltcy.ai) | 다중 모델 | 확인 필요 | - | 21607ms |
-| 109 | SwitchBase | [switchbase.vip](https://switchbase.vip) | 다중 모델 | 확인 필요 | - | 21674ms |
-| 110 | 晴辰云 | [gpt.qt.cool](https://gpt.qt.cool) | 다중 모델 | 확인 필요 | - | 21683ms |
-| 111 | AI新境 | [aixj.vip](https://aixj.vip) | 다중 모델 | 확인 필요 | - | 21698ms |
-| 112 | 147ai.com | [147ai.com](https://147ai.com) | 다중 모델 | 확인 필요 | - | 21701ms |
-| 113 | openaiLabs | [openai-labs.com](https://openai-labs.com) | 다중 모델 | [api.openai-labs.com](https://api.openai-labs.com) | 21689ms | 21724ms |
-| 114 | 黑与白公益站 | [ai.hybgzs.com](https://ai.hybgzs.com) | 다중 모델 | 확인 필요 | - | 21758ms |
-| 115 | OneChats | [chatapi.onechats.top](https://chatapi.onechats.top) | 다중 모델 | 확인 필요 | - | 21763ms |
-| 116 | AICoding | [aicoding.sh](https://aicoding.sh) | Claude Code | [api.aicoding.sh](https://api.aicoding.sh) | 24027ms | 21770ms |
-| 117 | n1n.ai | [n1n.ai](https://n1n.ai) | 다중 모델 | [api.n1n.ai](https://api.n1n.ai) | 19424ms | 21792ms |
-| 118 | YesCode | [co.yes.vg](https://co.yes.vg) | Claude / GPT / Gemini | 확인 필요 | - | 21801ms |
-| 119 | IKunCode | [api.ikuncode.cc](https://api.ikuncode.cc) | Claude / GPT / Gemini | 확인 필요 | - | 21907ms |
-| 120 | SSSAiCode | [sssaicode.com](https://sssaicode.com) | 다중 모델 | 확인 필요 | - | 21913ms |
-| 121 | NodAPI | [nodapi.com](https://nodapi.com) | 다중 모델 | 확인 필요 | - | 21923ms |
-| 122 | CTok.ai | [ctok.ai](https://ctok.ai) | Claude Code | [api.ctok.ai](https://api.ctok.ai) | 21151ms | 21987ms |
-| 123 | XcodeBest | [xcode.best](https://xcode.best) | Claude / GPT | [api.xcode.best](https://api.xcode.best) | 21654ms | 22030ms |
-| 124 | ClaudeCN | [claudecn.top](https://claudecn.top) | 다중 모델 | 확인 필요 | - | 22547ms |
-| 125 | OpenRouter | [openrouter.ai](https://openrouter.ai) | 350+ 모델 | 확인 필요 | - | 22557ms |
-| 126 | OpenCode | [opencode.ai](https://opencode.ai) | 다중 모델 | 확인 필요 | - | 22561ms |
-| 127 | Crazyrouter | [crazyrouter.com](https://crazyrouter.com) | 300+ 모델 | [crazyrouter.com](https://crazyrouter.com) | 22601ms | 22601ms |
-| 128 | PICO AI | [picoai.top](https://picoai.top) | 다중 모델 | 확인 필요 | - | 22655ms |
-| 129 | DataEyes AI | [dataeyes.ai](https://dataeyes.ai) | 다중 모델 | [api.dataeyes.ai](https://api.dataeyes.ai) | 22148ms | 22756ms |
-| 130 | PatewayAI | [pateway.ai](https://pateway.ai) | 다중 모델 | [api.pateway.ai](https://api.pateway.ai) | 19490ms | 23057ms |
-| 131 | AnPin AI | [anpin.ai](https://anpin.ai) | 다중 모델 | 확인 필요 | - | 23104ms |
-| 132 | AI Hub | [aihub-global.com](https://aihub-global.com) | 다중 모델 | 확인 필요 | - | 23123ms |
-| 133 | gptuu | [opus.gptuu.com](https://opus.gptuu.com) | 다중 모델 | 확인 필요 | - | 24689ms |
-| 134 | 星见雅 API | [api.xinjianya.top](https://api.xinjianya.top) | 다중 모델 | 확인 필요 | - | 24836ms |
-| 135 | Poixe AI | [poixe.com](https://poixe.com) | 다중 모델 | [api.poixe.com](https://api.poixe.com) | 24445ms | 26209ms |
-| 136 | Dragoncode | [dragoncode.codes](https://dragoncode.codes) | 다중 모델 | 확인 필요 | - | 26371ms |
-| 137 | Timy AI | [timyai.com](https://timyai.com) | 다중 모델 | 확인 필요 | - | 26567ms |
-| 138 | DDS (ddshub.cc) | [ddshub.cc](https://ddshub.cc) | Claude | 확인 필요 | - | 29869ms |
-| 139 | 汪汪の中转站 | [qianweikeji.fun](https://qianweikeji.fun) | 다중 모델 | [api.qianweikeji.fun](https://api.qianweikeji.fun) | 23115ms | 31200ms |
-| 140 | ByteCat | [bytecatcode.org](https://bytecatcode.org) | Claude / GPT / Gemini | 확인 필요 | - | 32311ms |
-| 141 | 一元模型 | [timesniper.club](https://timesniper.club) | 다중 모델 | [api.timesniper.club](https://api.timesniper.club) | 2720ms | 32909ms |
-| 142 | 快快云安全 | [kkidc.com](https://kkidc.com) | Claude | 확인 필요 | - | 34725ms |
-| 143 | ABC Relay | [abcrelay.com](https://abcrelay.com) | 다중 모델 | [api.abcrelay.com](https://api.abcrelay.com) | 19479ms | 35249ms |
-| 144 | ephone | [api.ephone.ai](https://api.ephone.ai) | 다중 모델 | 확인 필요 | - | 36463ms |
-| 145 | 七牛云 AI | [qnaigc.com](https://qnaigc.com) | 다중 모델 | [api.qnaigc.com](https://api.qnaigc.com) | 13901ms | 39173ms |
-| 146 | NanoGPT | [nano-gpt.com](https://nano-gpt.com) | 다중 모델 | [d3gk2c5xim1je2.cloudfront.net](https://d3gk2c5xim1je2.cloudfront.net) | 1144ms | 39194ms |
-| 147 | AICodeMirror | [aicodemirror.com](https://aicodemirror.com) | 다중 모델 | 확인 필요 | - | 43228ms |
-| 148 | PackyCode | [packyapi.com](https://packyapi.com) | Claude / Codex / Gemini | 확인 필요 | - | 43240ms |
-| 149 | ShawnAPI | [api.gptoai.cc](https://api.gptoai.cc) | 다중 모델 | 확인 필요 | - | 43394ms |
-| 150 | AIGoCode | [aigocode.com](https://aigocode.com) | 풀스택 모델 | [api.aigocode.com](https://api.aigocode.com) | 21827ms | 44845ms |
-| 151 | CloseAI | [closeai-asia.com](https://closeai-asia.com) | Claude | [api.closeai-asia.com](https://api.closeai-asia.com) | 4000ms | 시간 초과 |
-| 152 | ChatGTP | [chatgtp.cn](https://chatgtp.cn) | 다중 모델 | [api.chatgtp.cn](https://api.chatgtp.cn) | 19229ms | 시간 초과 |
-| 153 | DuckCoding | [duckcoding.ai](https://duckcoding.ai) | 다중 모델 | [api.duckcoding.ai](https://api.duckcoding.ai) | 21958ms | 시간 초과 |
-| 154 | 发现AI | [findcg.com](https://findcg.com) | 다중 모델 | [api.findcg.com](https://api.findcg.com) | 22480ms | 시간 초과 |
-| 155 | 4ksAPI | [4ksapi.com](https://4ksapi.com) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 156 | 9Router | [9router.com](https://9router.com) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 157 | Anyrouter | [anyrouter.top](https://anyrouter.top) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 158 | BMCCA | [cca.maya.today](https://cca.maya.today) | 다중 모델 | [cca.maya.today](https://cca.maya.today) | 시간 초과 | 시간 초과 |
-| 159 | boneapi | [open.api.gu28.top](https://open.api.gu28.top) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 160 | CatClaw API | [catclawai.top](https://catclawai.top) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 161 | CCTQ | [code.b886.top](https://code.b886.top) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 162 | chienapi | [chienapi.top](https://chienapi.top) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 163 | ChunXue API | [chunxueapi.com](https://chunxueapi.com) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 164 | EnenCloud API | [api.enencloud.top](https://api.enencloud.top) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 165 | F2API | [api.f2api.com](https://api.f2api.com) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 166 | ggwk1 | [ggwk1.online](https://ggwk1.online) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 167 | gptapi | [gptapi.us](https://gptapi.us) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 168 | InstCopilot API | [instcopilot-api.com](https://instcopilot-api.com) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 169 | Matr Code | [matrcode.com](https://matrcode.com) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 170 | Micu API | [openclaudecode.cn](https://openclaudecode.cn) | Claude / GPT / Gemini / Grok | 확인 필요 | - | 시간 초과 |
-| 171 | Micu API | [openclaudecode.cn](https://openclaudecode.cn) | Claude Code | 확인 필요 | - | 시간 초과 |
-| 172 | MKE AI | [tb-api.mkeai.com](https://tb-api.mkeai.com) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 173 | MonkingAI | [monking.ai](https://monking.ai) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 174 | Nio | [api.nio.gs](https://api.nio.gs) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 175 | UniAiX | [uniaix.com](https://uniaix.com) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 176 | wzjself中转站 | [wzjself.org](https://wzjself.org) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 177 | 大肘子 | [api.dzzi.ai](https://api.dzzi.ai) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 178 | 小智API | [newai.aichat.ink](https://newai.aichat.ink) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 179 | 巨量API | [api.yidvps.cn](https://api.yidvps.cn) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 180 | 微雨API | [hu.weiyusc.top](https://hu.weiyusc.top) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 181 | 极速AI | [aicodee.com](https://aicodee.com) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| 182 | 酸枝云 | [suanzhi.cloud](https://suanzhi.cloud) | 다중 모델 | 확인 필요 | - | 시간 초과 |
-| | linkapi | [linkapi.ai](https://linkapi.ai) | 다중모델 | api.linkapi.ai | | |
-| | 오타쿠러브 | [az.zlapi.vip](https://az.zlapi.vip) | 다중모델 | az.zlapi.vip | | |
-| | bearlab ai | [bearlab.ai](https://bearlab.ai) | 다중모델 | bearlab.ai | | |
-| | 旺旺AI | [api.bbww.top](https://api.bbww.top) | 다중모델 | api.bbww.top | | |
+| 1 | NanoGPT | [nano-gpt.com](https://nano-gpt.com) | 다중 모델 | d3gk2c5xim1je2.cloudfront.net | 6ms | 20ms |
+| 2 | OpenCode | [opencode.ai](https://opencode.ai) | 다중 모델 | opencode.ai | 6ms | 21ms |
+| 3 | OpenRouter | [openrouter.ai](https://openrouter.ai) | 350+ 모델 | api.openrouter.ai | 5ms | 26ms |
+| 4 | 旺旺AI | [api.bbww.top](https://api.bbww.top) | 다중모델 | api.bbww.top |  | 26ms |
+| 5 | Anyrouter | [anyrouter.top](https://anyrouter.top) | 다중 모델 | api.anyrouter.top | 8ms | 32ms |
+| 6 | PackyCode | [packyapi.com](https://packyapi.com) | 다중 모델 | api.packyapi.com | 6ms | 32ms |
+| 7 | AIHubMix | [aihubmix.com](https://aihubmix.com) | 다중 모델 | api.aihubmix.com | 39ms | 36ms |
+| 8 | Cubence | [cubence.com](https://cubence.com) | 다중 모델 | api.fontshare.com | 5ms | 41ms |
+| 9 | xeduapi.com | [xeduapi.com](https://xeduapi.com) | 다중 모델 | api.xeduapi.com | 40ms | 58ms |
+| 10 | UU API | [uuapi.net](https://uuapi.net) | 다중 모델 | api.uuapi.net | 39ms | 59ms |
+| 11 | APINebula | [apinebula.com](https://apinebula.com) | 다중 모델 | apinebula.com | 46ms | 61ms |
+| 12 | AIGoCode | [aigocode.com](https://aigocode.com) | 다중 모델 | aigocode.com | 9ms | 63ms |
+| 13 | Easy Router | [easyrouter.io](https://easyrouter.io) | 다중 모델 | api.easyrouter.io | 8ms | 63ms |
+| 14 | 词元流动 | [tokenflux.dev](https://tokenflux.dev) | 다중 모델 | tokenflux.dev | 123ms | 64ms |
+| 15 | ANYONE.AI | [anyone.ai](https://anyone.ai) | 다중 모델 | api.anyone.ai | 28ms | 65ms |
+| 16 | ephone | [api.ephone.ai](https://api.ephone.ai) | 다중 모델 | api.ephone.ai | 117ms | 65ms |
+| 17 | ABC Relay | [abcrelay.com](https://abcrelay.com) | 다중 모델 | api.abcrelay.com | 66ms | 66ms |
+| 18 | Crazyrouter | [crazyrouter.com](https://crazyrouter.com) | 다중 모델 | crazyrouter.com | 48ms | 67ms |
+| 19 | DataEyes AI | [dataeyes.ai](https://dataeyes.ai) | 다중 모델 | img.dataeyes.ai | 7ms | 69ms |
+| 20 | Smz Ai | [smz6.com](https://smz6.com) | 다중 모델 | api.smz6.com | 42ms | 69ms |
+| 21 | PackyAPI | [codex-api.packycode.com](https://codex-api.packycode.com) | 다중 모델 | api.codex-api.packycode.com | 6ms | 71ms |
+| 22 | 9Router | [9router.com](https://9router.com) | 다중 모델 | api.9router.com | 49ms | 73ms |
+| 23 | Poixe AI | [poixe.com](https://poixe.com) | 다중 모델 | api.poixe.com | 45ms | 74ms |
+| 24 | SSSAiCode | [sssaicode.com](https://sssaicode.com) | 다중 모델 | api.sssaicode.com | 38ms | 74ms |
+| 25 | AI Hub | [aihub-global.com](https://aihub-global.com) | 다중 모델 | api.aihub-global.com | 64ms | 75ms |
+| 26 | ofox.ai | [ofox.ai](https://ofox.ai) | 다중 모델 | api.ofox.ai | 37ms | 75ms |
+| 27 | bearlab ai | [bearlab.ai](https://bearlab.ai) | 다중모델 | bearlab.ai |  | 78ms |
+| 28 | Stark GPT Load | [stark-gpt-load.onrender.com](https://stark-gpt-load.onrender.com) | 다중 모델 | api.stark-gpt-load.onrender.com | 40ms | 79ms |
+| 29 | RK AI | [2api.rkai6.com](https://2api.rkai6.com) | 다중 모델 | api.2api.rkai6.com | 39ms | 81ms |
+| 30 | AICodeMirror | [aicodemirror.com](https://aicodemirror.com) | 다중 모델 | aicodemirror.com | 38ms | 92ms |
+| 31 | Matr Code | [matrcode.com](https://matrcode.com) | 다중 모델 | api.matrcode.com | 45ms | 97ms |
+| 32 | 302.ai | [302.ai](https://302.ai) | 다중 모델 | dash-api.302.ai | 41ms | 99ms |
+| 33 | ZX API | [zxai.work](https://zxai.work) | 다중 모델 | api.zxai.work | 38ms | 100ms |
+| 34 | Terminal.Pub | [terminal.pub](https://terminal.pub) | 다중 모델 | terminal.pub | 71ms | 101ms |
+| 35 | kksj | [cnapi.kksj.org](https://cnapi.kksj.org) | 다중 모델 | cnapi.kksj.org | 45ms | 103ms |
+| 36 | BMCCA | [cca.maya.today](https://cca.maya.today) | 다중 모델 | cca.maya.today | 40ms | 104ms |
+| 37 | 镜核 AI | [ai.17nas.com](https://ai.17nas.com) | 다중 모델 | api.ai.17nas.com | 48ms | 104ms |
+| 38 | 天絮 API | [chat-api4.087654.xyz](https://chat-api4.087654.xyz) | 다중 모델 | chat-api4.087654.xyz | 40ms | 108ms |
+| 39 | AI新境 | [aixj.vip](https://aixj.vip) | 다중 모델 | api.aixj.vip | 47ms | 110ms |
+| 40 | 大肘子 | [api.dzzi.ai](https://api.dzzi.ai) | 다중 모델 | api.api.dzzi.ai | 46ms | 110ms |
+| 41 | Smart API | [ai.smartall.cloud](https://ai.smartall.cloud) | 다중 모델 | api.ai.smartall.cloud | 44ms | 111ms |
+| 42 | 球球Token | [qiuqiutoken.com](https://qiuqiutoken.com) | 다중 모델 | api.qiuqiutoken.com | 39ms | 111ms |
+| 43 | EnenCloud API | [api.enencloud.top](https://api.enencloud.top) | 다중 모델 | api.api.enencloud.top | 70ms | 113ms |
+| 44 | 汪汪の中转站 | [qianweikeji.fun](https://qianweikeji.fun) | 다중 모델 | api.qianweikeji.fun | 45ms | 114ms |
+| 45 | 诗云 API ShiyunApi | [shiyunapi.com](https://shiyunapi.com) | 다중 모델 | api.shiyunapi.com | 7ms | 115ms |
+| 46 | YuegleAPI | [api.yuegle.com](https://api.yuegle.com) | 다중 모델 | api.api.yuegle.com | 86ms | 118ms |
+| 47 | TimiCC | [timicc.com](https://timicc.com) | 다중 모델 | api.timicc.com | 66ms | 121ms |
+| 48 | CTok.ai | [ctok.ai](https://ctok.ai) | 다중 모델 | api.ctok.ai | 40ms | 125ms |
+| 49 | 盛算云 Shengsuanyun | [shengsuanyun.com](https://shengsuanyun.com) | 다중 모델 | shengsuanyun.com | 60ms | 125ms |
+| 50 | DMXAPI | [dmxapi.cn](https://dmxapi.cn) | 다중 모델 | dmxapi.cn | 59ms | 126ms |
+| 51 | 晴辰云 | [gpt.qt.cool](https://gpt.qt.cool) | 다중 모델 | api.gpt.qt.cool | 10ms | 126ms |
+| 52 | ofox.ai | [ofox.ai](https://ofox.ai) | 다중 모델 | api.ofox.ai | 6ms | 127ms |
+| 53 | PICO AI | [picoai.top](https://picoai.top) | 다중 모델 | api.picoai.top | 44ms | 130ms |
+| 54 | OneChats | [chatapi.onechats.top](https://chatapi.onechats.top) | 다중 모델 | chatapi.onechats.top | 39ms | 132ms |
+| 55 | ChefShop AI | [chefshop.ai](https://chefshop.ai) | 다중 모델 | api.chefshop.ai | 41ms | 136ms |
+| 56 | DawCode | [dawclaudecode.com](https://dawclaudecode.com) | 다중 모델 | api.dawclaudecode.com | 77ms | 136ms |
+| 57 | 灵芽 API | [api.lingyaai.cn](https://api.lingyaai.cn) | 다중 모델 | api.api.lingyaai.cn | 73ms | 138ms |
+| 58 | NUWA | [nuwaapi.com](https://nuwaapi.com) | 다중 모델 | api.nuwaapi.com | 8ms | 139ms |
+| 59 | Aiberm | [aiberm.com](https://aiberm.com) | 다중 모델 | aiberm.com | 225ms | 144ms |
+| 60 | linkapi | [linkapi.ai](https://linkapi.ai) | 다중모델 | api.linkapi.ai |  | 144ms |
+| 61 | NekoCode | [nekocode.ai](https://nekocode.ai) | 다중 모델 | nekocode.ai | 64ms | 145ms |
+| 62 | API 易 | [apiyi.com](https://apiyi.com) | 다중 모델 | api.apiyi.com | 125ms | 150ms |
+| 63 | 오타쿠러브 | [az.zlapi.vip](https://az.zlapi.vip) | 다중모델 | az.zlapi.vip |  | 151ms |
+| 64 | 147ai.com | [147ai.com](https://147ai.com) | 다중 모델 | api.147ai.com | 40ms | 153ms |
+| 65 | 接口AI | [jiekou.ai](https://jiekou.ai) | 다중 모델 | api.jiekou.ai | 73ms | 157ms |
+| 66 | 星链 4SAPI | [4sapi.com](https://4sapi.com) | 다중 모델 | api.4sapi.com | 141ms | 162ms |
+| 67 | xinglianapi | [xinglianapi.com](https://xinglianapi.com) | 다중 모델 | api.xinglianapi.com | 80ms | 165ms |
+| 68 | 草丛GPT中转站 | [ai.adbog.com](https://ai.adbog.com) | 다중 모델 | api.ai.adbog.com | 54ms | 168ms |
+| 69 | openaiLabs | [openai-labs.com](https://openai-labs.com) | 다중 모델 | openai-labs.com | 123ms | 171ms |
+| 70 | RightCode | [right.codes](https://right.codes) | 다중 모델 | api.right.codes | 7ms | 172ms |
+| 71 | 云雾AI | [yunwu.ai](https://yunwu.ai) | 다중 모델 | yunwu.ai | 124ms | 174ms |
+| 72 | ChunXue API | [chunxueapi.com](https://chunxueapi.com) | 다중 모델 | chunxueapi.com | 144ms | 181ms |
+| 73 | RunAPI | [runapi.co](https://runapi.co) | 다중 모델 | api.runapi.co | 126ms | 184ms |
+| 74 | 丰思理 AI | [ai.fengsili.online](https://ai.fengsili.online) | 다중 모델 | api.ai.fengsili.online | 48ms | 184ms |
+| 75 | 钠 API | [naapi.cc](https://naapi.cc) | 다중 모델 | naapi.cc | 251ms | 186ms |
+| 76 | CCFly | [ccfly.codes](https://ccfly.codes) | 다중 모델 | api.ccfly.codes | 218ms | 187ms |
+| 77 | LemonData | [lemondata.cc](https://lemondata.cc) | 다중 모델 | api.lemondata.cc | 49ms | 187ms |
+| 78 | AnPin AI | [anpin.ai](https://anpin.ai) | 다중 모델 | api.anpin.ai | 166ms | 188ms |
+| 79 | laozhang.ai | [api.laozhang.ai](https://api.laozhang.ai) | 다중 모델 | api.api.laozhang.ai | 145ms | 188ms |
+| 80 | ClaudeCN | [claudecn.top](https://claudecn.top) | 다중 모델 | api.claudecn.top | 47ms | 190ms |
+| 81 | linkapi | [linkapi.ai](https://linkapi.ai) | 다중 모델 | api.linkapi.ai | 확인 필요 | 190ms |
+| 82 | sbgpt | [go.sbgpt.site](https://go.sbgpt.site) | 다중 모델 | api.go.sbgpt.site | 274ms | 195ms |
+| 83 | PatewayAI | [pateway.ai](https://pateway.ai) | 다중 모델 | api.pateway.ai | 38ms | 196ms |
+| 84 | FoxCode | [foxcode.rjj.cc](https://foxcode.rjj.cc) | 다중 모델 | api.foxcode.rjj.cc | 7ms | 197ms |
+| 85 | Sub2API | [s2a.865199.xyz](https://s2a.865199.xyz) | 다중 모델 | api.s2a.865199.xyz | 140ms | 199ms |
+| 86 | treerouter | [treerouter.com](https://treerouter.com) | 다중 모델 | api.treerouter.com | 140ms | 199ms |
+| 87 | BUZZ | [buzzai.cc](https://buzzai.cc) | 다중 모델 | api.buzzai.cc | 38ms | 202ms |
+| 88 | zhtec | [api1.zhtec.xyz](https://api1.zhtec.xyz) | 다중 모델 | api1.zhtec.xyz | 39ms | 203ms |
+| 89 | GalaxyAPI | [api.openai-ch.top](https://api.openai-ch.top) | 다중 모델 | api.api.openai-ch.top | 136ms | 205ms |
+| 90 | LX_API | [lxtech.icu](https://lxtech.icu) | 다중 모델 | api.lxtech.icu | 48ms | 207ms |
+| 91 | E-FlowCode | [e-flowcode.cc](https://e-flowcode.cc) | 다중 모델 | api.e-flowcode.cc | 47ms | 211ms |
+| 92 | codesome.ai | [codesome.ai](https://codesome.ai) | 다중 모델 | api.codesome.ai | 82ms | 213ms |
+| 93 | Dragoncode | [dragoncode.codes](https://dragoncode.codes) | 다중 모델 | api.dragoncode.codes | 149ms | 213ms |
+| 94 | Aizex API | [aizex.top](https://aizex.top) | 다중 모델 | api.aizex.top | 39ms | 216ms |
+| 95 | koalaapi | [koalaapi.com](https://koalaapi.com) | 다중 모델 | api.koalaapi.com | 141ms | 217ms |
+| 96 | 猫羽霖API | [huashang.dpdns.org](https://huashang.dpdns.org) | 다중 모델 | huashang.dpdns.org | 49ms | 217ms |
+| 97 | XcodeBest | [xcode.best](https://xcode.best) | 다중 모델 | api.xcode.best | 48ms | 224ms |
+| 98 | gptgod | [gptgod.cloud](https://gptgod.cloud) | 다중 모델 | api.gptgod.cloud | 148ms | 225ms |
+| 99 | wzjself中转站 | [wzjself.org](https://wzjself.org) | 다중 모델 | wzjself.org | 39ms | 226ms |
+| 100 | LionCC | [vibecodingapi.ai](https://vibecodingapi.ai) | 다중 모델 | vibecodingapi.ai | 149ms | 227ms |
+| 101 | YesCode | [co.yes.vg](https://co.yes.vg) | 다중 모델 | api.co.yes.vg | 39ms | 230ms |
+| 102 | KFCV50API | [kfcv50.link](https://kfcv50.link) | 다중 모델 | api.kfcv50.link | 140ms | 233ms |
+| 103 | chatfire | [api.chatfire.cn](https://api.chatfire.cn) | 다중 모델 | api.api.chatfire.cn | 189ms | 246ms |
+| 104 | 云智API | [yunzhiapi.cn](https://yunzhiapi.cn) | 다중 모델 | yunzhiapi.cn | 75ms | 246ms |
+| 105 | Undy API | [vip.undyingapi.com](https://vip.undyingapi.com) | 다중 모델 | vip.undyingapi.com | 147ms | 250ms |
+| 106 | 七牛云 AI | [qnaigc.com](https://qnaigc.com) | 다중 모델 | api.qnaigc.com | 76ms | 251ms |
+| 107 | HotaruAPI | [api.hotaruapi.top](https://api.hotaruapi.top) | 다중 모델 | api.api.hotaruapi.top | 69ms | 256ms |
+| 108 | deepkey | [deepkey.top](https://deepkey.top) | 다중 모델 | deepkey.top | 138ms | 260ms |
+| 109 | 柠檬API | [new.lemonapi.site](https://new.lemonapi.site) | 다중 모델 | api.new.lemonapi.site | 7ms | 261ms |
+| 110 | 35-aigcbest | [35.aigcbest.top](https://35.aigcbest.top) | 다중 모델 | api.35.aigcbest.top | 141ms | 264ms |
+| 111 | MaynorAPI | [apipro.maynor1024.live](https://apipro.maynor1024.live) | 다중 모델 | api.apipro.maynor1024.live | 190ms | 265ms |
+| 112 | SwitchBase | [switchbase.vip](https://switchbase.vip) | 다중 모델 | api.switchbase.vip | 142ms | 265ms |
+| 113 | 速创API | [api.suchuang.vip](https://api.suchuang.vip) | 다중 모델 | api.api.suchuang.vip | 141ms | 270ms |
+| 114 | ClaudeAPI | [console.claudeapi.com](https://console.claudeapi.com) | 다중 모델 | api.console.claudeapi.com | 8ms | 275ms |
+| 115 | ChatGTP | [chatgtp.cn](https://chatgtp.cn) | 다중 모델 | chatgtp.cn | 151ms | 281ms |
+| 116 | 全球AI | [globalai.vip](https://globalai.vip) | 다중 모델 | api.globalai.vip | 148ms | 282ms |
+| 117 | Owl AI | [api.owlai.tech](https://api.owlai.tech) | 다중 모델 | api.owlai.tech | 71ms | 290ms |
+| 118 | chintao.cn | [chintao.cn](https://chintao.cn) | 다중 모델 | chintao.cn | 74ms | 291ms |
+| 119 | ocool AI | [ocool.ai](https://ocool.ai) | 다중 모델 | api.ocool.ai | 10ms | 291ms |
+| 120 | v3 | [api.v3.cm](https://api.v3.cm) | 다중 모델 | api.api.v3.cm | 140ms | 291ms |
+| 121 | Yun API | [api.zyai.online](https://api.zyai.online) | 다중 모델 | api.zyai.online | 346ms | 291ms |
+| 122 | 艾可API | [aicanapi.com](https://aicanapi.com) | 다중 모델 | aicanapi.com | 165ms | 297ms |
+| 123 | VVCode | [vvcode.top](https://vvcode.top) | 다중 모델 | vvcode.top | 147ms | 307ms |
+| 124 | 硅基流动 SiliconFlow | [siliconflow.cn](https://siliconflow.cn) | 다중 모델 | api.siliconflow.cn | 57ms | 313ms |
+| 125 | nekoapi | [api.nekoapi.com](https://api.nekoapi.com) | 다중 모델 | api.api.nekoapi.com | 43ms | 321ms |
+| 126 | ShawnAPI | [api.gptoai.cc](https://api.gptoai.cc) | 다중 모델 | api.api.gptoai.cc | 310ms | 321ms |
+| 127 | IKunCode | [api.ikuncode.cc](https://api.ikuncode.cc) | 다중 모델 | api.ikuncode.cc | 42ms | 329ms |
+| 128 | 一叶知秋API | [88996.cloud](https://88996.cloud) | 다중 모델 | api.88996.cloud | 200ms | 329ms |
+| 129 | 黑与白公益站 | [ai.hybgzs.com](https://ai.hybgzs.com) | 다중 모델 | api.ai.hybgzs.com | 41ms | 341ms |
+| 130 | MiKu | [mikuapi.org](https://mikuapi.org) | 다중 모델 | mikuapi.org | 199ms | 343ms |
+| 131 | SmokeDivine AI | [yansd666.com](https://yansd666.com) | 다중 모델 | api.yansd666.com | 122ms | 352ms |
+| 132 | PoloAPI | [poloai.top](https://poloai.top) | 다중 모델 | api.poloai.top | 261ms | 376ms |
+| 133 | boneapi | [open.api.gu28.top](https://open.api.gu28.top) | 다중 모델 | open.api.gu28.top | 527ms | 385ms |
+| 134 | 鑫源AI | [xinyuanai666.com](https://xinyuanai666.com) | 다중 모델 | api.xinyuanai666.com | 123ms | 409ms |
+| 135 | ZenMux | [zenmux.ai](https://zenmux.ai) | 다중 모델 | zenmux.ai | 7ms | 420ms |
+| 136 | xjai-new | [new.xjai.cc](https://new.xjai.cc) | 다중 모델 | api.new.xjai.cc | 302ms | 428ms |
+| 137 | 简易-API中转站 | [jeniya.top](https://jeniya.top) | 다중 모델 | api.jeniya.top | 54ms | 435ms |
+| 138 | bearlab ai | [bearlab.ai](https://bearlab.ai) | 다중 모델 | bearlab.ai | 확인 필요 | 452ms |
+| 139 | AICoding | [aicoding.sh](https://aicoding.sh) | 다중 모델 | api.aicoding.sh | 41ms | 453ms |
+| 140 | n1n.ai | [n1n.ai](https://n1n.ai) | 다중 모델 | docs.n1n.ai | 151ms | 455ms |
+| 141 | azapi | [azapi.com.cn](https://azapi.com.cn) | 다중 모델 | api.azapi.com.cn | 154ms | 466ms |
+| 142 | 오타쿠러브 | [az.zlapi.vip](https://az.zlapi.vip) | 다중 모델 | az.zlapi.vip | 확인 필요 | 506ms |
+| 143 | 柏拉图AI | [api.bltcy.ai](https://api.bltcy.ai) | 다중 모델 | api.api.bltcy.ai | 141ms | 524ms |
+| 144 | Nio | [api.nio.gs](https://api.nio.gs) | 다중 모델 | api.api.nio.gs | 196ms | 533ms |
+| 145 | MonkingAI | [monking.ai](https://monking.ai) | 다중 모델 | monking.ai | 52ms | 568ms |
+| 146 | InstCopilot API | [instcopilot-api.com](https://instcopilot-api.com) | 다중 모델 | instcopilot-api.com | 142ms | 598ms |
+| 147 | tomchat | [api.tomchat.fun](https://api.tomchat.fun) | 다중 모델 | api.api.tomchat.fun | 300ms | 609ms |
+| 148 | ByteCat | [bytecatcode.org](https://bytecatcode.org) | 다중 모델 | bytecatcode.org | 8ms | 705ms |
+| 149 | aabao | [fastapi.aabao.vip](https://fastapi.aabao.vip) | 다중 모델 | fastapi.aabao.vip | 7ms | 974ms |
+| 150 | 旺旺AI | [api.bbww.top](https://api.bbww.top) | 다중 모델 | api.bbww.top | 확인 필요 | 980ms |
+| 151 | 4ksAPI | [4ksapi.com](https://4ksapi.com) | 다중 모델 | 4ksapi.com | 75ms | 983ms |
+| 152 | 旺旺中转站 | [api.bbww.top](https://api.bbww.top) | 다중 모델 | api.bbww.top | 7ms | 1002ms |
+| 153 | DDS (ddshub.cc) | [ddshub.cc](https://ddshub.cc) | 다중 모델 | api.ddshub.cc | 68ms | 1080ms |
+| 154 | 小智API | [newai.aichat.ink](https://newai.aichat.ink) | 다중 모델 | newai.aichat.ink | 160ms | 1109ms |
+| 155 | MuskAI | [muskpay.top](https://muskpay.top) | 다중 모델 | api.muskpay.top | 57ms | 1146ms |
+| 156 | 快快云安全 | [kkidc.com](https://kkidc.com) | 다중 모델 | ai.kkidc.com | 59ms | 1157ms |
+| 157 | OhMyGPT | [x.dogenet.win](https://x.dogenet.win) | 다중 모델 | docs.ohmygpt.com | 154ms | 1158ms |
+| 158 | 小瑞API | [xiaoruiapi.cc](https://xiaoruiapi.cc) | 다중 모델 | api.xiaoruiapi.cc | 49ms | 1179ms |
+| 159 | Compshare (UCloud) | [compshare.cn](https://compshare.cn) | 다중 모델 | api.compshare.cn | 63ms | 1196ms |
+| 160 | 神马中转 API | [api.whatai.cc](https://api.whatai.cc) | 다중 모델 | api.api.whatai.cc | 148ms | 1246ms |
+| 161 | paintbot | [oneapi.paintbot.top](https://oneapi.paintbot.top) | 다중 모델 | api.oneapi.paintbot.top | 67ms | 1308ms |
+| 162 | 巨量API | [api.yidvps.cn](https://api.yidvps.cn) | 다중 모델 | api.yidvps.cn | 44ms | 1777ms |
+| 163 | 88API | [88api.apifox.cn](https://88api.apifox.cn) | 다중 모델 | docs.apifox.com | 71ms | 1791ms |
+| 164 | AiroeAI | [ai.airoe.cn](https://ai.airoe.cn) | 다중 모델 | api.ai.airoe.cn | 66ms | 1839ms |
+| 165 | AI98 | [ai98.vip](https://ai98.vip) | 다중 모델 | api.ai98.vip | 140ms | 1872ms |
+| 166 | ❌ 6i2 | [6i2.com](https://6i2.com) | 다중 모델 | api.6i2.com | 67ms | 시간 초과 |
+| 167 | ❌ CatClaw API | [catclawai.top](https://catclawai.top) | 다중 모델 | catclawai.top | 시간 초과 | 시간 초과 |
+| 168 | ❌ CCTQ | [code.b886.top](https://code.b886.top) | 다중 모델 | api.code.b886.top | 시간 초과 | 시간 초과 |
+| 169 | ❌ chienapi | [chienapi.top](https://chienapi.top) | 다중 모델 | api.chienapi.top | 시간 초과 | 시간 초과 |
+| 170 | ❌ CloseAI | [closeai-asia.com](https://closeai-asia.com) | 다중 모델 | api.closeai-asia.com | 시간 초과 | 시간 초과 |
+| 171 | ❌ DuckCoding | [duckcoding.ai](https://duckcoding.ai) | 다중 모델 | api.duckcoding.ai | 시간 초과 | 시간 초과 |
+| 172 | ❌ Flux AI | [cn.nyi.cn](https://cn.nyi.cn) | 다중 모델 | cn.nyi.cn | 시간 초과 | 시간 초과 |
+| 173 | ❌ ggwk1 | [ggwk1.online](https://ggwk1.online) | 다중 모델 | ggwk1.online | 시간 초과 | 시간 초과 |
+| 174 | ❌ gptapi | [gptapi.us](https://gptapi.us) | 다중 모델 | api.gptapi.us | 시간 초과 | 시간 초과 |
+| 175 | ❌ gptuu | [opus.gptuu.com](https://opus.gptuu.com) | 다중 모델 | api.opus.gptuu.com | 시간 초과 | 시간 초과 |
+| 176 | ❌ GueAi | [api.gueai.com](https://api.gueai.com) | 다중 모델 | api.api.gueai.com | 시간 초과 | 시간 초과 |
+| 177 | ❌ Micu API | [openclaudecode.cn](https://openclaudecode.cn) | 다중 모델 | openclaudecode.cn | 시간 초과 | 시간 초과 |
+| 178 | ❌ MKE AI | [tb-api.mkeai.com](https://tb-api.mkeai.com) | 다중 모델 | api.tb-api.mkeai.com | 시간 초과 | 시간 초과 |
+| 179 | ❌ NodAPI | [nodapi.com](https://nodapi.com) | 다중 모델 | nodapi.com | 74ms | 시간 초과 |
+| 180 | ❌ Timy AI | [timyai.com](https://timyai.com) | 다중 모델 | api.timyai.com | 시간 초과 | 시간 초과 |
+| 181 | ❌ UniAiX | [uniaix.com](https://uniaix.com) | 다중 모델 | uniaix.com | 시간 초과 | 시간 초과 |
+| 182 | ❌ 一元模型 | [timesniper.club](https://timesniper.club) | 다중 모델 | api.timesniper.club | 시간 초과 | 시간 초과 |
+| 183 | ❌ 发现AI | [findcg.com](https://findcg.com) | 다중 모델 | api.findcg.com | 시간 초과 | 시간 초과 |
+| 184 | ❌ 微雨API | [hu.weiyusc.top](https://hu.weiyusc.top) | 다중 모델 | hu.weiyusc.top | 시간 초과 | 시간 초과 |
+| 185 | ❌ 星见雅 API | [api.xinjianya.top](https://api.xinjianya.top) | 다중 모델 | api.api.xinjianya.top | 시간 초과 | 시간 초과 |
+| 186 | ❌ 极速AI | [aicodee.com](https://aicodee.com) | 다중 모델 | aicodee.com | 시간 초과 | 시간 초과 |
+| 187 | ❌ 酸枝云 | [suanzhi.cloud](https://suanzhi.cloud) | 다중 모델 | api.suanzhi.cloud | 시간 초과 | 시간 초과 |
 
 ## 📚 데이터 출처
 
@@ -280,3 +281,11 @@ python rebuild_table2.py
 
 ---
 
+<div align="center">
+
+**이 프로젝트가 도움이 되었다면 ⭐ Star를 눌러 지원해 주길 바람!**
+
+Made with ❤️ by the community
+
+</div>| # | 名称 | 官网 | 支持模型 | Base URL | API延迟 | 官网延迟 |
+|:---:|:---|:---|:---|:---|:---:|:---:|
