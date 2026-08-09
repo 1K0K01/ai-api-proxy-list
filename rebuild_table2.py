@@ -61,6 +61,14 @@ if not providers:
             "latency": match.group(6).strip(),
         })
 
+# 'ms' 문자를 제거하고 숫자로 변환하여 정렬. 타임아웃(超时)은 무한대(inf) 처리하여 맨 밑으로 내림.
+def parse_latency(ms_str):
+    if "超时" in ms_str or "-" in ms_str:
+        return float('inf')
+    return int(ms_str.replace("ms", "").strip())
+
+providers.sort(key=lambda x: parse_latency(x['latency']))
+
 for i, p in enumerate(providers, 1):
     line = (
         f"| {i} | {p['name']} | [{p['domain']}]({p['homepage']}) | "
