@@ -1,6 +1,6 @@
 """
-Properly rebuild the table for the new 7-column format:
-| # | 名称 | 官网 | 支持模型 | Base URL | API延迟 | 官网延迟 |
+새로운 7열 포맷에 맞게 테이블을 재구성합니다:
+| # | 이름 | 공식 웹사이트 | 지원 모델 | Base URL | API 지연 시간 | 공식 웹사이트 지연 시간 |
 """
 import re
 from pathlib import Path
@@ -10,7 +10,8 @@ README_PATH = Path(__file__).resolve().parent / "README.md"
 with open(README_PATH, "r", encoding="utf-8") as f:
     content = f.read()
 
-table_start = content.find("| # | 名称 | 官网 |")
+# 한국어 헤더 기준으로 탐색 위치 변경
+table_start = content.find("| # | 이름 | 공식 웹사이트 |")
 table_end = content.find("\n\n---\n\n## 📚", table_start)
 if table_end == -1:
     table_end = content.find("\n\n## 📚", table_start)
@@ -19,7 +20,8 @@ table_text = content[table_start:table_end]
 
 lines = table_text.split("\n")
 
-header = "| # | 名称 | 官网 | 支持模型 | Base URL | API延迟 | 官网延迟 |"
+# 한국어 헤더 적용
+header = "| # | 이름 | 공식 웹사이트 | 지원 모델 | Base URL | API 지연 시간 | 공식 웹사이트 지연 시간 |"
 align = "|:---:|:---|:---|:---|:---|:---:|:---:|"
 new_lines = [header, align]
 
@@ -56,19 +58,20 @@ if not providers:
             "domain": match.group(3).strip(),
             "homepage": match.group(4).strip(),
             "models": match.group(5).strip(),
-            "api_url": "待确认",
+            "api_url": "확인 필요", 
             "api_latency": "-",
-            "latency": match.group(6).strip(),
+            "latency": match.group(6).strip().replace("超时", "시간 초과"),
         })
 
-# 'ms' 문자를 제거하고 숫자로 변환하여 정렬. 타임아웃(超时)은 무한대(inf) 처리하여 맨 밑으로 내림.
+# 응답 속도순 자동 정렬 로직 추가
 def parse_latency(ms_str):
-    if "超时" in ms_str or "-" in ms_str:
+    if "시간 초과" in ms_str or "超时" in ms_str or "-" in ms_str:
         return float('inf')
     return int(ms_str.replace("ms", "").strip())
 
 providers.sort(key=lambda x: parse_latency(x['latency']))
 
+# 재조립 (번호 재부여)
 for i, p in enumerate(providers, 1):
     line = (
         f"| {i} | {p['name']} | [{p['domain']}]({p['homepage']}) | "
@@ -82,4 +85,4 @@ new_content = content[:table_start] + new_table + content[table_end:]
 with open(README_PATH, "w", encoding="utf-8") as f:
     f.write(new_content)
 
-print(f"Rebuilt table with {len(providers)} rows in 7-column format.")
+print(f"한국어 포맷으로 {len(providers)}개의 서비스 테이블이 재구성 및 속도순 정렬되었습니다.")
