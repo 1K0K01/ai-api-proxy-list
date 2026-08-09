@@ -2,37 +2,84 @@
 
 # 🔄 AI API Proxy List
 
-### AI 大模型 API 中转 / 代理服务合集
+### AI 대형 모델 API 중계 / 프록시 서비스 모음
 
 [![GitHub](https://img.shields.io/badge/GitHub-Project-blue?logo=github)](https://github.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](./CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/Updated-2026.05-blueviolet)]()
+[![Last Updated](https://img.shields.io/badge/Updated-2026.08-blueviolet)]()
 
-**帮助开发者快速找到合适的 AI API 中转服务，一站式对比价格、模型与特色。**
+**개발자가 적합한 AI API 중계 서비스를 빠르게 찾을 수 있도록 돕고, 가격, 모델, 특징을 한곳에서 비교합니다.**
 
 </div>
 
 ---
 
-## 📖 项目介绍
+## 📖 프로젝트 소개
 
-随着 AI 大模型的普及，越来越多的开发者需要调用 Claude、GPT、Gemini 等模型的 API。然而，由于网络限制、支付门槛、价格等因素，许多开发者选择通过 **API 中转/代理服务** 来访问这些模型。
+AI 대형 모델이 대중화됨에 따라 Claude, GPT, Gemini 등 모델의 API를 호출해야 하는 개발자가 늘어나고 있습니다. 하지만 네트워크 제한, 결제 장벽, 가격 등의 요인으로 인해 많은 개발자가 **API 중계/프록시 서비스**를 통해 이러한 모델에 접근하는 방식을 선택합니다.
 
-本项目旨在：
+본 프로젝트의 목적은 다음과 같습니다:
 
-- 📋 **尽量收录** 市面上的 API 中转/代理服务信息
-- 🤝 **社区共建** 欢迎大家补充和纠错
-- ⚠️ **仅供参考** 不构成任何推荐或背书
+- 📋 **최대한 수록**: 시중에 나와 있는 API 중계/프록시 서비스 정보를 최대한 모음
+- 🤝 **커뮤니티 공동 기여**: 누구나 내용 추가 및 오류 수정을 제안하는 것을 환영함
+- ⚠️ **참고용**: 어떠한 형태의 추천이나 보증을 의미하지 않음
 
 ---
 
+## 📊 서비스 제공자 목록
 
-## 📊 服务商列表
-
-| # | 名称 | 官网 | 支持模型 | Base URL | API延迟 | 官网延迟 |
+| # | 이름 | 공식 웹사이트 | 지원 모델 | Base URL | API 지연 시간 | 공식 웹사이트 지연 시간 |
 |:---:|:---|:---|:---|:---|:---:|:---:|
-| 1 | API 易 | [apiyi.com](https://apiyi.com) | 400+ 模型 | [api.apiyi.com](https://api.apiyi.com) | 746ms | 4575ms |
+| 1 | API 易 | [apiyi.com](https://apiyi.com) | 400+ 모델 | [api.apiyi.com](https://api.apiyi.com) | 746ms | 4575ms |
+
+---
+
+## 📚 데이터 출처
+
+본 프로젝트의 서비스 제공자 데이터는 주로 다음 프로젝트에서 참조했습니다:
+- [cc-switch](https://github.com/farion1231/cc-switch) - AI API 중계 서비스를 모아둔 오픈소스 프로젝트
+- [禾维 AI 중계소 순위](https://www.hvoy.ai/sites) - AI API 중계소 모니터링 및 순위 플랫폼
+- [중계소 아레나](https://www.aiapipk.com/channels) - AI 중계소 디렉토리 및 평가 플랫폼
+- [LM Speed](https://lmspeed.net/zh/provider/category/relay) - 대형 모델 API 제공자 성능 테스트 플랫폼
+- [OfoxAI Blog](https://ofox.ai/zh/blog/ai-api-relay-station-comparison-guide-2026) - AI API 중계소 추천 및 리뷰
+
+---
+
+## 🤝 기여 참여
+
+여러분의 기여를 환영합니다!
+
+### 빠른 기여 방법
+
+1. 🍴 이 리포지토리를 Fork합니다.
+2. ✏️ `README.md`를 편집하여 표의 끝(`## 📚 데이터 출처` 앞)에 아래 형식으로 새 줄을 추가합니다:
+
+|  | 서비스 제공자 이름 | 도메인 | 지원 모델 |  |
+> 번호와 지연 시간 열은 비워두세요. 스크립트 실행 후 자동으로 채워집니다.
+3. 🔀 Pull Request를 제출합니다.
+
+### 자동화 스크립트 (선택 사항)
+
+연결성 테스트, 정렬 및 번호 매기기를 자동화하는 보조 스크립트를 제공합니다:
+
+```bash
+# 1. 모든 도메인의 지연 시간을 테스트하고 정렬합니다.
+python update_latency.py
+
+# 2. 번호를 다시 생성합니다.
+python rebuild_table2.py
+```
+
+⚠️ 면책 조항
+본 프로젝트는 단순한 정보 수집 및 정리일 뿐이며, 어떠한 형태의 추천이나 보증도 의미하지 않습니다.
+ * 본 프로젝트에 나열된 모든 서비스 제공자 정보는 참고용이며, 그 정확성이나 최신성을 보장하지 않습니다.
+ * 제3자 API 중계 서비스를 이용할 경우 데이터 유출, 서비스 중단, 금전적 손실 등의 위험이 존재할 수 있습니다.
+ * 일부 중계 서비스는 모델 제공 업체의 서비스 약관(ToS)을 위반할 소지가 있으며, 이로 인한 위험은 사용자가 스스로 감수해야 합니다.
+ * 본 프로젝트는 나열된 서비스 제공자를 사용함으로 인해 발생하는 직간접적인 손실에 대해 책임을 지지 않습니다.
+ * 사용 전 반드시 서비스 제공자의 신뢰성, 안전성 및 규정 준수 여부를 직접 평가하시기 바랍니다.
+📜 라이선스 (License)
+본 프로젝트는 MIT License에 따라 오픈소스로 제공됩니다.
 | 2 | ANYONE.AI | [anyone.ai](https://anyone.ai) | 多模型 | [api.anyone.ai](https://api.anyone.ai) | 814ms | 21448ms |
 | 3 | Owl AI | [api.owlai.tech](https://api.owlai.tech) | 多模型 | [api.owlai.tech](https://api.owlai.tech) | 941ms | 941ms |
 | 4 | Cubence | [cubence.com](https://cubence.com) | 多模型 | [api.fontshare.com](https://api.fontshare.com) | 1015ms | 19337ms |
