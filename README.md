@@ -117,7 +117,7 @@ AI 대형 모델이 대중화됨에 따라 Claude, GPT, Gemini 등 모델의 API
 | 84 | NUWA | [nuwaapi.com](https://nuwaapi.com) | 다중 모델 | api.nuwaapi.com | 161ms | 128ms |
 | 85 | VVCode | [vvcode.top](https://vvcode.top) | 다중 모델 | vvcode.top | 161ms | 158ms |
 | 86 | LionCC | [vibecodingapi.ai](https://vibecodingapi.ai) | 다중 모델 | vibecodingapi.ai | 167ms | 163ms |
-| 87 | 오타쿠러브 | [az.zlapi.vip](https://az.zlapi.vip) | 다중 모델 | az.zlapi.vip | 180ms | 150ms |
+| 87 | 宅恋 | [az.zlapi.vip](https://az.zlapi.vip) | 다중 모델 | az.zlapi.vip | 180ms | 150ms |
 | 88 | E-FlowCode | [e-flowcode.cc](https://e-flowcode.cc) | 다중 모델 | api.e-flowcode.cc | 181ms | 182ms |
 | 89 | SmokeDivine AI | [yansd666.com](https://yansd666.com) | 다중 모델 | api.yansd666.com | 183ms | 660ms |
 | 90 | DuckCoding | [duckcoding.ai](https://duckcoding.ai) | 다중 모델 | api.duckcoding.ai | 193ms | 시간 초과 |
